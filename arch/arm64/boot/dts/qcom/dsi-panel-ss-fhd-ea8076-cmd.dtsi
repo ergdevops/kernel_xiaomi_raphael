@@ -101,7 +101,7 @@
 		qcom,mdss-dsi-dispparam-elvss-dimming-read-command-state = "dsi_hs_mode";
 
 		qcom,mdss-dsi-display-timings {
-				timing@0 {
+				timing@0 {gitt
 						qcom,mdss-dsi-panel-width = <0x438>;
 						qcom,mdss-dsi-panel-height = <0x924>;
 						qcom,mdss-dsi-h-front-porch = <0x16>;
